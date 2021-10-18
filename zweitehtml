@@ -1,1 +1,18 @@
-
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <title>
+       Dies ist die zweite Testseite
+    </title>
+  </head>
+  
+  <body>
+    <h1>
+      <strong>Auf diese Seite soll von der ersten Seite verlinkt werden</strong>
+    </h1>
+    <h2>
+      <p>Dies ist die zweite Textebene der zweiten Seite</p>
+      <p>Auf der zweiten Textebene befinden sich zwei Absätze</p>
+    </h2>
+  </body>
+</html>
